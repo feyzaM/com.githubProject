@@ -6,5 +6,7 @@ public class C01_Githup {
 
         System.out.println("Hello world");
 
+        String deneme="Merhaba github";
+
     }
 }
